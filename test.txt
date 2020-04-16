@@ -1,5 +1,3 @@
-linea 1.2
+linea 1
 linea 2
-linea 3.5 con cambios
-linea 4
-linea 5
+linea 3
